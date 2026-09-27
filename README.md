@@ -6,6 +6,7 @@ into video. A live preview shows the picture while the DAW plays, so audio plugi
 video effects rack.
 
 ![six bends of the same frame](docs/examples.png)
+https://www.youtube.com/watch?v=0qM-B5NHpXE
 
 - **Bit-exact round trip**: no effects in, identical pixels out.
 - **Sync that survives effects**: every frame starts with a noise burst that the decoder finds
