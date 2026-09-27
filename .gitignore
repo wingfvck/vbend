@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# your media stays out of the repo
+*.wav
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.avi
+vbend_*.png

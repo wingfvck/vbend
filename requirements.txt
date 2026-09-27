@@ -1,0 +1,4 @@
+numpy
+soundfile
+opencv-python-headless
+tkinterdnd2      # optional: drag & drop in the window
